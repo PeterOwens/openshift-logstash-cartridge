@@ -4,7 +4,7 @@ Display-Name: Peters Logstash 1.4.1
 Version: "1.4.1"
 Versions: ["1.4.1"]
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: peterDSG
+Cartridge-Vendor: peterowens
 Categories:
  - service
  - logstash
