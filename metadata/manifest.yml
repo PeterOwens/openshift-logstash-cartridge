@@ -4,7 +4,7 @@ Display-Name: DSG Logstash 1.4.1
 Version: "1.4.1"
 Versions: ["1.4.1"]
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: DSG_Platforms
+Cartridge-Vendor: dsg
 Categories:
  - service
  - logstash
