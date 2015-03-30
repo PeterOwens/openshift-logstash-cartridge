@@ -8,6 +8,7 @@ Cartridge-Vendor: dsg
 Categories:
  - service
  - logstash
+Website: https://github.com/PeterOwens/openshift-logstash-cartridge
 Source-Url: https://github.com/PeterOwens/openshift-logstash-cartridge.git
 Provides:
  - logstash
